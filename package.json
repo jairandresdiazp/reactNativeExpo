@@ -1,6 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "fix": "npm run lint && npm run format",
     "lint": "eslint --fix --ext js,tsx",
     "format": "prettier --write \"**/*.{tsx,js,json,graphql,md}\"",
     "start": "expo start",
