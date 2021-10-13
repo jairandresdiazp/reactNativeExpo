@@ -1,3 +1,4 @@
-- instalar expo `npm install -g expo-cli`
+- instalar expo `npm i -g expo-cli`
 - ejecutar `expo init`
+- ejecutar `npm i -g @expo/ngrok`
 - compilara `yarn start` o `node start`
